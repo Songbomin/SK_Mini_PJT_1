@@ -1,0 +1,68 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "홍길동",
+        "score": 8,
+        "rank": 1
+      },
+      {
+        "id": 2,
+        "name": "김갑현",
+        "score": 1,
+        "rank": 1
+      },
+      {
+        "id": 3,
+        "name": "임서진",
+        "score": 7,
+        "rank": 3
+      },
+      {
+        "id": 4,
+        "name": "박지원",
+        "score": 7,
+        "rank": 3
+      },
+      {
+        "id": 5,
+        "name": "이민수",
+        "score": 6,
+        "rank": 5
+      },
+      {
+        "id": 6,
+        "name": "정다은",
+        "score": 6,
+        "rank": 5
+      },
+      {
+        "id": 7,
+        "name": "강현우",
+        "score": 5,
+        "rank": 7
+      },
+      {
+        "id": 8,
+        "name": "손영진",
+        "score": 4,
+        "rank": 8
+      },
+      {
+        "id": 9,
+        "name": "김철수",
+        "score": 3,
+        "rank": 9
+      },
+      {
+        "id": 10,
+        "name": "최유리",
+        "score": 3,
+        "rank": 9
+      }
+    ],
+    "totalParticipants": 10,
+    "maxScore": 8,
+    "minScore": 3,
+    "averageScore": 5.7
+  }
